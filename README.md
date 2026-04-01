@@ -46,10 +46,9 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 Este projeto é apenas para fins educacionais e não possui qualquer vínculo com a Starbucks.
 
-📂 Como executar
+📂 REPOSITÓRIO
 
-1. Clone este repositório:
-   git clone https://github.com/seu-usuario/seu-repo
+https://mipfranco.github.io/projetostarbucks/
 
 2. Abra o arquivo index.html no navegador
 
