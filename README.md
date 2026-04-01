@@ -45,3 +45,14 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 ⚠️ Aviso
 
 Este projeto é apenas para fins educacionais e não possui qualquer vínculo com a Starbucks.
+
+📂 Como executar
+
+1. Clone este repositório:
+   git clone https://github.com/seu-usuario/seu-repo
+
+2. Abra o arquivo index.html no navegador
+
+👨‍💻 Autor
+
+Michele P.
